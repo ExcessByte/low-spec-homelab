@@ -7,4 +7,4 @@ So, I am making this repo to share what I find while pushing an **Intel Celeron 
 
 ## Why...
 
-I've always wanted to try self-hosting things. I watch a lot of videos about it and I had this old Celeron laptop before getting my current PC, and it is in pretty bad shape physically. Instead of throwing it away, I wanted to put it to some good use and see what a truly low-spec machine can achieve as a homelab.
+I've always wanted to try self-hosting things. I watch a lot of videos about it and I had this old Celeron laptop before getting my current PC, and it is in pretty bad shape physically. Instead of throwing it away, I wanted to put it to some good use and see what a truly low-spec machine can achieve as a homelab. I don't think this will ever be a permanent installation and just a testing rig. You could probably follow my guide if you want to do this on your hardware too. If you have any doubt just use any ai and find the answer. Like I don't think anyone will ever read this fully. If... you really read this, Star this repo. Also feel free to contact me too
